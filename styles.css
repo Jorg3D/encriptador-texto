@@ -105,6 +105,11 @@
     color: #033252;
 }
 
+footer {
+    text-align: center;
+    color: #033252 padding: 40px;
+}
+
 .btn-desencriptar:hover,
 .btn-encriptar:hover {
     margin: 0.3%;
@@ -166,6 +171,9 @@
     height: 50%;
     top: 15%;
 }
+
+
+
 
 /*Responsive design*/
 @media(max-width: 57.5em) {
